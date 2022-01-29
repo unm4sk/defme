@@ -20,9 +20,9 @@ Defme is a script written in Python, which allows a user to get definitions for 
 5) You are ready to go!
 ### Defme - Microsoft Excel version
 1) Install these libraries:
-```
-pip install rich gspread PyDictionary
-```
+    ```
+    pip install rich gspread PyDictionary
+    ```
 2) Download and paste a file location into `settings.py` file    (*ignore* `sa_name` variable). Specify a worksheet you want to work with.    
     Should look like this:
     ```
